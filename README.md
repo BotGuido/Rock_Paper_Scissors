@@ -4,7 +4,7 @@
 <img height="30em" src="https://raw.githubusercontent.com/anki-geo/ultimate-geography/a44a569a922e1d241517113e2917736af808eed7/src/media/flags/ug-flag-united_kingdom.svg" alt="english" align = "center"/>
 
 # Rock Paper Scissors
-Rock Paper Scissors game on Python
+Rock Paper Scissors game on Python + add new GUI project
 
 
 ## Algorithm
@@ -34,7 +34,7 @@ Rock Paper Scissors game on Python
 <img height="30em" src="https://raw.githubusercontent.com/anki-geo/ultimate-geography/a44a569a922e1d241517113e2917736af808eed7/src/media/flags/ug-flag-russia.svg" alt="russian" align = "center"/>
 
 # Камень,Ножницы,Бумага
-Игра Камень,Ножницы,Бумага на Python
+Игра Камень,Ножницы,Бумага на Python + добавлен проект на GUI
 
 
 ## Алгоритм
